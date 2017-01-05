@@ -14,14 +14,12 @@ static NSString *cellId = @"cell";
 #import "AddToShopAnimation.h"
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>
 @property(nonatomic,strong)UITableView *tableview;
-
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
     
   [self.view addSubview:self.tableview];
   [self.view addSubview:self.shopView];
