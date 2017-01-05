@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "679577AF6172ABE6A45E536755398B3B57137438+++87CC386",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "679577AF6172ABE6A45E536755398B3B57137438+++FC646F9" : 9223372036854775807,
+    "679577AF6172ABE6A45E536755398B3B57137438+++87CC386" : 9223372036854775807,
+    "679577AF6172ABE6A45E536755398B3B57137438+++83F17E1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "039EDBFA-016A-4632-A445-A3BBFDDC57A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "679577AF6172ABE6A45E536755398B3B57137438+++FC646F9" : "..",
+    "679577AF6172ABE6A45E536755398B3B57137438+++87CC386" : "UIBezierPathAddtoShop\/",
+    "679577AF6172ABE6A45E536755398B3B57137438+++83F17E1" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "贝塞尔曲线之加入购物车",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "贝塞尔曲线之加入购物车.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liuxinixn\/LXAddToShop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "679577AF6172ABE6A45E536755398B3B57137438+++83F17E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liuxinixn\/LXAddToShop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "679577AF6172ABE6A45E536755398B3B57137438+++87CC386"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liuxinixn\/LXAddToShop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "679577AF6172ABE6A45E536755398B3B57137438+++FC646F9"
+    }
+  ]
+}
